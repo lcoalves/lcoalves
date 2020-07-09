@@ -12,8 +12,7 @@
 - 🏢 I'm currently working at **Universidade da Familia** and **BossaBox**
 - ⚙️ I use daily: `.ts`, `.js`, `.css`, `.html`, `.svg`
 - 🌍 I'm mostly active within the **Javascript/Typescript Community**
-- 🌱 Learning all about **Open Source**
-- 🎙 Currently hosting [Laravel Live Portugal – Season 2](https://www.youtube.com/playlist?list=PLLXPV3-YsvzTSuYYr6EkIQyvbzbvIQjkh)
+- 🌱 Learning all about **ReactJS**, **React Native**, **NodeJS**
 - 💬 Ping me about **development**, **javascript**, **typescript**, **nodejs**, **reactjs**, **react native**, **artificial intelligence**
 - ⚡️ Fun fact: I'm a huge fan of Blizzard Games
 
