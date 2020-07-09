@@ -15,6 +15,3 @@
 - 🌱 Learning all about **ReactJS**, **React Native**, **NodeJS**
 - 💬 Ping me about **development**, **javascript**, **typescript**, **nodejs**, **reactjs**, **react native**, **artificial intelligence**
 - ⚡️ Fun fact: I'm a huge fan of Blizzard Games
-
----
-⭐️ From [caneco](https://github.com/caneco)
