@@ -9,9 +9,9 @@
 
 #### I'm a Computer Scientist and Full-Stack Developer working in Pompeia, São Paulo, Brazil.
 
-- 🏢 I'm currently working at **Universidade da Familia** and **BossaBox**
+- 🏢 I'm currently working at **Afferolab**
 - ⚙️ I use daily: `.ts`, `.js`, `.css`, `.html`, `.svg`
-- 🌍 I'm mostly active within the **Javascript/Typescript Community**
-- 🌱 Learning all about **ReactJS**, **React Native**, **NodeJS**
-- 💬 Ping me about **development**, **javascript**, **typescript**, **nodejs**, **reactjs**, **react native**, **artificial intelligence**
+- 🌍 I'm mostly active within the **Typescript/Javascript Community**
+- 🌱 Learning all about **NodeJS**, **ReactJS** and **React Native**
+- 💬 Ping me about **development**, **nodejs**, **typescript**, **javascript**, **reactjs**, **react native**, **artificial intelligence**, **machine learning**
 - ⚡️ Fun fact: I'm a huge fan of Blizzard Games
