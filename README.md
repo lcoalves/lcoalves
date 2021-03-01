@@ -10,7 +10,7 @@
 #### I'm a Computer Scientist and Full-Stack Developer working in Pompeia, São Paulo, Brazil.
 
 - 🏢 I'm currently working at **Afferolab**
-- ⚙️ I use daily: `.ts`, `.js`, `.css`, `.html`, `.svg`
+- ⚙️ I use daily: `.ts`, `.js`, `.css`, `.html`, `.yaml`
 - 🌍 I'm mostly active within the **Typescript/Javascript Community**
 - 🌱 Learning all about **NodeJS**, **ReactJS** and **React Native**
 - 💬 Ping me about **development**, **nodejs**, **typescript**, **javascript**, **reactjs**, **react native**, **artificial intelligence**, **machine learning**
