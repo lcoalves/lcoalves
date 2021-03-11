@@ -7,7 +7,7 @@
 
 ### Hi there 👋
 
-#### I'm a Computer Scientist and Full-Stack Developer working in Pompeia, São Paulo, Brazil.
+#### I'm a Computer Scientist and IT Specialist Developer working in Pompeia, São Paulo, Brazil (Remote).
 
 - 🏢 I'm currently working at **Afferolab**
 - ⚙️ I use daily: `.ts`, `.js`, `.css`, `.html`, `.yaml`
