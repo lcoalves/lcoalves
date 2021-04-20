@@ -7,9 +7,9 @@
 
 ### Hi there 👋
 
-#### I'm a Computer Scientist and IT Specialist Developer working in Pompeia, São Paulo, Brazil (Remote).
+#### I'm a Computer Scientist and Senior Software Developer working from home in Pompeia, São Paulo, Brazil.
 
-- 🏢 I'm currently working at **Afferolab**
+- 🏢 I'm currently working at **HDN Digital**
 - ⚙️ I use daily: `.ts`, `.js`, `.tsx`, `jsx`, `.css`, `.html`, `.yaml`
 - 🌍 I'm mostly active within the **Typescript/Javascript Community**
 - 🌱 Learning all about **NodeJS**, **ReactJS** and **React Native**
