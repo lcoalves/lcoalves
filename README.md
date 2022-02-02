@@ -12,6 +12,6 @@
 - 🏢 I'm currently working at **HDN Digital**
 - ⚙️ I use daily: `.ts`, `.js`, `.tsx`, `jsx`, `.css`, `.html`, `.yaml`
 - 🌍 I'm mostly active within the **Typescript/Javascript Community**
-- 🌱 Learning all about **NodeJS**, **ReactJS** and **React Native**
-- 💬 Ping me about **development**, **nodejs**, **typescript**, **javascript**, **reactjs**, **react native**, **artificial intelligence**, **machine learning**
+- 🌱 Learning all about **Software architeture**, **Microfrontends** and **Devops**
+- 💬 Ping me about **development**, **nodejs**, **typescript**, **javascript**, **react**, **react native**, **micro frontends**, **ci/cd**, **docker**
 - ⚡️ Fun fact: I'm a huge fan of Blizzard Games
