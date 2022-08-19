@@ -9,7 +9,7 @@
 
 #### I'm a Computer Scientist and Software Architet working from home in Marília, São Paulo, Brazil.
 
-- 🏢 I'm currently working at **levva**, we're hiring ((click here)[https://levva.io/carreiras/]).
+- 🏢 I'm currently working at **levva**, we're hiring ([click here](https://levva.io/carreiras/)).
 - ⚙️ I use daily: `.ts`, `.js`, `.tsx`, `jsx`, `.css`, `.html`, `.yaml`
 - 🌍 I'm mostly active within the **Typescript/Javascript Community**
 - 🌱 Learning all about **Software architeture**, **Microfrontends** and **Devops**
