@@ -1,7 +1,7 @@
-## Oi eu sou o Lucas Alves, criador de conteúdo de desenvolvimento web!
+## Oi eu sou o Lucas Alves, trabalho na área tech há 8 anos!
 
 <p>Sou formado em Ciencia da computação e também atuo como Arquiteto de Software.</p>
-<p>Atualmente trabalho na <b>levva</b>, e estamos contratando, <a href="https://levva.io/carreiras">clica aqui</a>.</p>
+<p>Atualmente trabalho na <b>levva</b>, e estamos contratando, <a href="https://levva.izirh.io">clica aqui</a>.</p>
 
 <div align="left">
   <a href="https://github.com/lcoalves">
