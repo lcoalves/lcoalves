@@ -1,8 +1,7 @@
-## Oi eu sou o Lucas Alves, trabalho na área tech há 8 anos!
+## Oi eu sou o Lucas Alves, trabalho na área tech há +8 anos!
 
 <p>Sou formado em Ciencia da computação e pós graduado em Arquitetura de soluções.</p>
-<p>Atualmente trabalho no <b>Grupo Boticário</b> como Desenvolvedor Especialista.</p>
-<p>Estamos contratando <a href="https://grupoboticario.gupy.io/">clica aqui</a>.</p>
+<p>Atualmente trabalho no <b>Mercado Livre</b> como Senior Software Engineer.</p>
 
 <div align="left">
   <a href="https://github.com/lcoalves">
